@@ -44,8 +44,6 @@
 
 ---
 
-## 🐍 Cobrinha dos commits
-
 <!--
   Para funcionar, você precisa do repositório de perfil (123Will/123Will) e do GitHub Actions configurado.
   Veja instruções: https://github.com/Platane/snk
