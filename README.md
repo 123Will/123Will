@@ -48,7 +48,15 @@
   Para funcionar, você precisa do repositório de perfil (123Will/123Will) e do GitHub Actions configurado.
   Veja instruções: https://github.com/Platane/snk
 -->
-![Snake animation](https://github.com/123Will/123Will/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Cobrinha dos commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/123Will/123Will/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+    <img alt="snake animation" src="https://github.com/123Will/123Will/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  </picture>
+</p>
+
 
 ---
 
