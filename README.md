@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">William Junio</h1>
-<p align="center"><b>Desenvolvedor Mobile</b></p>
+<p align="center"><b>Desenvolvedor </b></p>
 
 <p align="center">
   Sou William Junio, desenvolvedor mobile júnior de Sertãozinho/SP. Sou formado em Engenharia de Software e atualmente trabalho com tecnologias como <b>React Native</b>, <b>Java</b>, <b>Android Studio</b> e ferramentas como <b>GitHub</b>, <b>Bitbucket</b>, <b>Firebase</b> e <b>Trello</b>. Gosto de transformar ideias em aplicativos funcionais e intuitivos, sempre buscando aprender mais e evoluir como desenvolvedor.
