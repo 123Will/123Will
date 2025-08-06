@@ -21,18 +21,16 @@
 
 ---
 
-### 📱 Tecnologias & Ferramentas
+📱 Tecnologias & Ferramentas 
 
-<p align="left">
-  <img alt="Java" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="React Native" title="React Native" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Android Studio" title="Android Studio" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
-  <img alt="Firebase" title="Firebase" width="30" src="https://www.svgrepo.com/show/373595/firebase.svg"/>
-  <img alt="GitHub" title="GitHub" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img alt="Bitbucket" title="Bitbucket" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>
-  <img alt="Trello" title="Trello" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
-</p>
-
+💻 Linguagens de Programação
+<p align="left"> <img alt="CSharp" title="C#" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> <img alt="Java" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img alt="TypeScript" title="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> </p>
+📱 Desenvolvimento Mobile
+<p align="left"> <img alt="React Native" title="React Native" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img alt="Android Studio" title="Android Studio" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/> </p>
+☁️ Backend & Serviços
+<p align="left"> <img alt="Firebase" title="Firebase" width="30" src="https://www.svgrepo.com/show/373595/firebase.svg"/> <img alt="SQLite" title="SQLite" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> <img alt="Vercel" title="Vercel" width="30" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/> </p>
+🛠️ Ferramentas de Desenvolvimento
+<p align="left"> <img alt="Postman" title="Postman" width="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/> <img alt="GitHub" title="GitHub" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img alt="Bitbucket" title="Bitbucket" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/> <img alt="Trello" title="Trello" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/> </p>
 ---
 
 ### 📊 Estatísticas GitHub
