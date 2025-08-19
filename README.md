@@ -7,7 +7,7 @@
 <p align="center"><b>Desenvolvedor </b></p>
 
 <p align="center">
-  Sou William Junio, desenvolvedor Full Stack e mobile júnior de Sertãozinho/SP. Sou formado em Engenharia de Software e atualmente trabalho com tecnologias como <b>React Native</b>, <b>Java</b>, <b>Android Studio</b> e ferramentas como <b>GitHub</b>, <b>Bitbucket</b>, <b>Firebase</b> e <b>Trello</b>. Gosto de transformar ideias em aplicativos funcionais e intuitivos, sempre buscando aprender mais e evoluir como desenvolvedor.
+  Sou William Junio, desenvolvedor Full Stack e mobile júnior. Sou formado em Engenharia de Software e atualmente trabalho com tecnologias como <b>React Native</b>, <b>Java</b>, <b>Android Studio</b> e ferramentas como <b>GitHub</b>, <b>Bitbucket</b>, <b>Firebase</b> e <b>Trello</b>. Gosto de transformar ideias em aplicativos funcionais e intuitivos, sempre buscando aprender mais e evoluir como desenvolvedor.
 </p>
 
 <p align="center">
